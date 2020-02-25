@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/25 13:36:11.000.787,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/25 13:38:12.000.025,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/25 13:38:43.000.118,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/12 20:00:02.000.840,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2020/02/12 20:00:09.000.953,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2020/02/12 20:03:05.000.825,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2020/02/25 08:16:28.243,=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 08:31:20.837,C:\Temp\cxGrid_getColumnName\Unit1.dfm=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/02/25 08:31:20.837,C:\Temp\cxGrid_getColumnName\Unit1.pas=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 08:31:23.952,C:\Temp\cxGrid_getColumnName\Project1.dproj=C:\Users\mesa.d\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
